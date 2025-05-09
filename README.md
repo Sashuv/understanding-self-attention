@@ -1,4 +1,4 @@
-# 🔍 Self-Attention from Scratch
+# Self-Attention from Scratch
 
 This repo contains clear, step-by-step implementations of how attention works inside transformer models — starting from the basics and building up to more advanced forms like **masked** and **multi-headed attention**.
 
